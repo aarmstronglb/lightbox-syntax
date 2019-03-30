@@ -1,0 +1,15 @@
+{
+  "name": "lightbox-syntax",
+  "theme": "lightbox syntax",
+  "version": "1.0.0",
+  "description": "This is the Lightbox Ditial Theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/aarmstonglb/lightbox-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
